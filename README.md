@@ -76,7 +76,7 @@ Page.Toggle({
 Page.Button({
     Text = "Click Me If You Die With While Farming",
     Callback = function()
-        --script    
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/iiprixe/235325125-GENATOR/main/item-asylum'),true))()    
     end
 })
 
